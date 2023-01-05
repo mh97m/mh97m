@@ -4,7 +4,7 @@
 
 <div align="center">
   <!-- <image src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" align="center"> -->
-  <video src="https://cdnl.iconscout.com/lottie/premium/preview-watermark/male-web-deveoper-4563722-3817230.mp4" autoplay="autoplay" muted="muted" loop="loop" playsinline="" type="video/mp4" align="center"></video>
+  <video src="https://cdnl.iconscout.com/lottie/premium/preview-watermark/male-web-deveoper-4563722-3817230.mp4" autoplay="autoplay" muted="muted" loop="loop" type="video/mp4" align="center"></video>
 </div>
 <br><br>
 <!--
