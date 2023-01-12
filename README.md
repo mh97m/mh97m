@@ -55,9 +55,8 @@
   </li>
 </ul>
 <image src="https://github-readme-streak-stats.herokuapp.com/?user=p-e-j-m-a-n">
-<image src="https://github-readme-stats.vercel.app/api?username=p-e-j-m-a-n&show_icons=true&theme=radical">
-<image src="https://github-readme-stats.vercel.app/api/top-langs/?username=p3jman&layout=compact">
-<image src="https://github-readme-stats.vercel.app/api?username=p3jman&show_icons=true&theme=radical&bg_color=ffffff&border_color=d9d9d9&title_color=000c94&text_color=000538&icon_color=d10046&cache_seconds=8000&include_all_commits=true&count_private=true">
+<image src="https://github-readme-stats.vercel.app/api/top-langs/?username=p-e-j-m-a-n&layout=compact">
+<image src="https://github-readme-stats.vercel.app/api?username=p-e-j-m-a-n&show_icons=true&theme=radical&bg_color=ffffff&border_color=d9d9d9&title_color=000c94&text_color=000538&icon_color=d10046&cache_seconds=8000&include_all_commits=true&count_private=true">
 <div>
   <img src="https://komarev.com/ghpvc/?username=p-e-j-m-a-n&style=flat-square&color=blue" alt=""/>
 </div>
