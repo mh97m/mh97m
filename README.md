@@ -3,30 +3,23 @@
 <h3 align="center">Backend Developer</h3>
 
 <div align="center">
-  <image src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" align="center">
+  <image src="https://media1.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif" align="center">
   <!-- <video src="https://cdnl.iconscout.com/lottie/premium/preview-watermark/male-web-deveoper-4563722-3817230.mp4" autoplay="autoplay" muted="muted" loop="loop" type="video/mp4"></video> -->
 </div>
 <br><br>
-<!--
-<p>I make Laravel Apps for a living :-)</p>
-<div>
-  my portfolio :    
-</div>-->
 <br>
 
 <h4>About me</h4>
 <hr>
 <div>
-  Programming has always been my true passion and something i never get tired of <br>
-  I'm a fast learner and excited to adventure the path ahead of me to become an expert in my field <br>
-  <br>
-  
-  I started web development in 2020 with learning html css and js later on i started php <br>
-  to be able to make a full website and i realized i'm more intrested in backend development <br>
-  i try to get better at what i do everyday
+  I am a professional web developer with two years of experience working with Laravel and PHP in website design,<br>
+  Holds a bachelor's degree in materials engineering with a strong interest in web development.<br><br>
+  I have a proven track record in building an e-commerce website using Livewire and Laravel, and I am proficient in working with MySQL and MongoDB databases.<br>
+  In addition, I have a solid understanding of HTML, CSS, and JavaScript.<br>
+  Recently, I have also developed a small project using React and gained familiarity with the technology.
 </div>
 <h4>
-  My skills
+  Skills:
 </h4>
 <ul>
   <li>
@@ -36,16 +29,19 @@
     Laravel
   </li>
   <li>
-    Live Wire
+    Livewire
   </li>
   <li>
-    Alpine JS
+    AlpineJS
   </li>
   <li>
-    React JS
+    ReactJS
   </li>
   <li>
     Mysql
+  </li>
+  <li>
+    MongoDB
   </li>
   <li>
     Git
