@@ -19,7 +19,7 @@
   Recently, I have also developed a small project using React and gained familiarity with the technology.<br><br>
   Furthermore, I have a full understanding of Python and have completed multiple projects that involve multi-tasking and API calls with Python. These projects have enabled me to hone my skills in Python and have given me hands-on experience in developing dynamic and scalable web applications.<br><br>
 
-Thank you for considering my application, and I look forward to the opportunity to contribute my expertise to your team.
+  Thank you for considering my application, and I look forward to the opportunity to contribute my expertise to your team.<br><br>
 </div>
 <h4>
   Skills:
@@ -47,9 +47,7 @@ Thank you for considering my application, and I look forward to the opportunity 
     MongoDB
   </li>
   <li>
-
-    Python 
-
+    Python
   </li>
   <li>
     Git
