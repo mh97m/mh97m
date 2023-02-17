@@ -16,7 +16,10 @@
   Holds a bachelor's degree in materials engineering with a strong interest in web development.<br><br>
   I have a proven track record in building an e-commerce website using Livewire and Laravel, and I am proficient in working with MySQL and MongoDB databases.<br>
   In addition, I have a solid understanding of HTML, CSS, and JavaScript.<br>
-  Recently, I have also developed a small project using React and gained familiarity with the technology.
+  Recently, I have also developed a small project using React and gained familiarity with the technology.<br>
+  Furthermore, I have a full understanding of Python and have completed multiple projects that involve multi-tasking and API calls with Python. These projects have enabled me to hone my skills in Python and have given me hands-on experience in developing dynamic and scalable web applications.<br><br>
+
+Thank you for considering my application, and I look forward to the opportunity to contribute my expertise to your team.
 </div>
 <h4>
   Skills:
