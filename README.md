@@ -47,6 +47,11 @@ Thank you for considering my application, and I look forward to the opportunity 
     MongoDB
   </li>
   <li>
+
+    Python 
+
+  </li>
+  <li>
     Git
   </li>
   <li>
