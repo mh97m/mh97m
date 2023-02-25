@@ -56,16 +56,16 @@
     HTML - CSS - JS
   </li>
 </ul>
-<image src="https://github-readme-streak-stats.herokuapp.com/?user=p-e-j-m-a-n">
-<image src="https://github-readme-stats.vercel.app/api/top-langs/?username=p-e-j-m-a-n&layout=compact">
-<image src="https://github-readme-stats.vercel.app/api?username=p-e-j-m-a-n&show_icons=true&theme=radical&bg_color=ffffff&border_color=d9d9d9&title_color=000c94&text_color=000538&icon_color=d10046&cache_seconds=8000&include_all_commits=true&count_private=true">
-<picture>
+<image src="https://github-readme-streak-stats.herokuapp.com/?user=pej-man">
+<image src="https://github-readme-stats.vercel.app/api/top-langs/?username=pej-man&layout=compact">
+<image src="https://github-readme-stats.vercel.app/api?username=pej-man&show_icons=true&theme=radical&bg_color=ffffff&border_color=d9d9d9&title_color=000c94&text_color=000538&icon_color=d10046&cache_seconds=8000&include_all_commits=true&count_private=true">
+<!-- <picture>
   <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="github-snake.svg">
   <img alt="github-snake" src="github-snake.svg">
-</picture>
+</picture> -->
 <div>
-  <img src="https://komarev.com/ghpvc/?username=p-e-j-m-a-n&style=flat-square&color=blue" alt=""/>
+  <img src="https://komarev.com/ghpvc/?username=pej-man&style=flat-square&color=blue" alt=""/>
 </div>
 <h4>Contact me</h4>
 <div>
