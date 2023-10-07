@@ -72,7 +72,7 @@
   <a href="https://www.linkedin.com/in/mohamad-hosein-montazeri">
      <img src="https://img.shields.io/badge/-linkedin-blue">
   </a>
-  <a href="mailto:mhm9mhm@gmail.com">
+  <a href="mailto:mh97montazeri@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-red">
   </a>
   <a href="https://t.me/pejgman">
